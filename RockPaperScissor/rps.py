@@ -52,8 +52,8 @@ if user_points > avik_points:
     print(f"{user_name} with {user_points} points🥱🥱🥱")
     print(f"I got {avik_points} points")
 elif user_points < avik_points:
-    print(f"AVIK with {user_points} points 😎😎😎😎😎")
-    print(f"You got {avik_points} points 😏😏😏😏😏😏😏😏")
+    print(f"AVIK with {avik_points} points 😎😎😎😎😎")
+    print(f"You got {user_points} points 😏😏😏😏😏😏😏😏")
 elif user_points == avik_points:
     print("Match Tied 🤦‍♂️🤦‍♂️🤦‍♂️")
 
