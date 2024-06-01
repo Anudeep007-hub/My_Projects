@@ -1,6 +1,0 @@
-flask 
-opencv-python
-
-# Create virtual environment if you face any "import Error" related problem.
-# Use command "pip install -r requirements.txt" on your terminal
-# to install the packages 
